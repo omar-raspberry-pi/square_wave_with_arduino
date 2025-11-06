@@ -1,0 +1,2 @@
+# square_wave_with_arduino
+square_wave_with_arduino using micros and delayMicroseconds
